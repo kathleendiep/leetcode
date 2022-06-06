@@ -29,7 +29,7 @@
 
 function minimalHeaviestSetA(arr) {
     // Write your code here
-
+    for (let i=0; )
 }
  // EXAMPLE 
  // input  - arr = [1,2,3,4,5]
